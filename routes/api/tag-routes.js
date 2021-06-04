@@ -11,7 +11,7 @@ router.get("/", async (req, res) => {
     const tagData = await Tag.findAll({
       include: {
         model: Tag,
-        attributes: ["id", "tag_name"],
+        through: ProductTag,
       },
     });
     if (!tagData) {
@@ -36,7 +36,7 @@ router.get("/:id", async (req, res) => {
       },
       include: {
         model: Product,
-        attributes: ["id", "tag_name"],
+        through: ProductTag,
       },
     });
     if (!tagData) {
@@ -84,7 +84,7 @@ router.delete("/:id", async (req, res) => {
   try {
     const deletedTag = await Tag.destroy({
       where: {
-        tag_id: req.params.id,
+        id: req.params.id,
       },
     });
     if (!deletedTag) {
