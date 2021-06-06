@@ -23,10 +23,32 @@ e-commerce app works to provide a platform to the users.
 
 ## Screenshots
 
-- ![image](./src/images/landing-page.png)
+![image](./images/database.png)
+
+![image](./images/get_categories.png)
+
+![image](./images/post_category.png)
+
+![image](./images/put_category.png)
+
+![image](./images/delete_category.png)
+
+![image](./images/get_products.png)
+
+![image](./images/delete_products.png)
+
+![image](./images/delete_products1.png)
+
+![image](./images/post_tags.png)
+
+![image](./images/put_tag.png)
+
+![image](./images/delete_tags.png)
+
+![image](./images/delete_tags1.png)
 
 ## Link to github
 
-https://github.com/Etipriya/employee-tracker
+https://github.com/Etipriya/e-commerce-app
 
 ## Link to the screen castify video
