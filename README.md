@@ -72,3 +72,5 @@ e-commerce app works to provide a platform to the users.
 https://github.com/Etipriya/e-commerce-app
 
 ## Link to the screen castify video
+
+https://drive.google.com/file/d/137pCZGrswpnZTeZ3NMy3-zZ3-UIVm6nQ/view?usp=sharing
