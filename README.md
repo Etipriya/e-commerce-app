@@ -23,25 +23,45 @@ e-commerce app works to provide a platform to the users.
 
 ## Screenshots
 
+- Created a database in workbench
+
 ![image](./images/database.png)
+
+- Code to GET all categories
 
 ![image](./images/get_categories.png)
 
+- Code to POST categories
+
 ![image](./images/post_category.png)
+
+- Code to PUT categories
 
 ![image](./images/put_category.png)
 
+- Code to DELETE categories
+
 ![image](./images/delete_category.png)
 
+- Code to GET products
+
 ![image](./images/get_products.png)
+
+- Code to DELETE products
 
 ![image](./images/delete_products.png)
 
 ![image](./images/delete_products1.png)
 
+- Code to POST tags
+
 ![image](./images/post_tags.png)
 
+- Code to PUT tags
+
 ![image](./images/put_tag.png)
+
+- Code to DELETE tags
 
 ![image](./images/delete_tags.png)
 
